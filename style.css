@@ -250,7 +250,7 @@
     border-left: 8px solid orange;
     border-radius: 8px;
     padding: 28px 20px;
-    box-shadow: 2px 4px 5px rgb(190, 190, 190);
+    box-shadow: 2px 4px 3px rgb(190, 190, 190);
 
     display: grid;
     grid-template-rows: 25px 4fr 1fr;
