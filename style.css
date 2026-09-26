@@ -299,6 +299,7 @@
 
 .announcement {
     align-content: center;
+    padding: 0 10px;
 }
 
 .announcement h3 {
