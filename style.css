@@ -225,7 +225,9 @@
     background-color: rgb(202, 215, 222);
 }
 
-.your-projects, .announcements, .trending {
+.your-projects,
+.announcements,
+.trending {
     display: grid;
     grid-template-rows: 25px 1fr;
     gap: 10px;
@@ -281,7 +283,8 @@
     justify-content: center;
 }
 
-.announcement-board, .trending-board {
+.announcement-board,
+.trending-board {
     height: 100%;
     width: 100%;
     padding: 20px;
@@ -307,7 +310,7 @@
     color: rgb(150, 150, 150);
 }
 
-.announcement + .announcement {
+.announcement+.announcement {
     border-top: 1px solid rgb(215, 215, 215);
 }
 
@@ -335,7 +338,8 @@
     color: rgb(100, 100, 100);
 }
 
-.trending-item h4, .trending-item p {
+.trending-item h4,
+.trending-item p {
     font-size: 14px;
     font-weight: 400
 }
