@@ -219,7 +219,7 @@
     display: grid;
     grid-template: 1fr 1fr / 2fr 1fr;
     padding: 28px 20px;
-    gap: 15px;
+    gap: 40px 15px;
     background-color: rgb(202, 215, 222);
 }
 
