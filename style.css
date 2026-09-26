@@ -244,7 +244,7 @@
 }
 
 .card {
-    height: 200px;
+    height: 100%;
     width: 360px;
     background-color: white;
     border-left: 8px solid orange;
@@ -253,7 +253,7 @@
     box-shadow: 2px 4px 5px rgb(190, 190, 190);
 
     display: grid;
-    grid-template-rows: 1fr 4fr 1fr;
+    grid-template-rows: 25px 4fr 1fr;
     grid-template-columns: 1fr 150px;
 }
 
